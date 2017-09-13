@@ -3,14 +3,12 @@ Software Reliability Growth Model (SRGM) is a way to generate a mapping of numbe
 
 **Model Used: Goel-Okumoto (G-O) model **
 
-$$
-\mu(x) = a(1 - e ^(-bt))
-$$
+![Goel-Okumoto Model](https://latex.codecogs.com/gif.latex?$$&space;\mu(x)&space;=&space;a(1&space;-&space;e&space;^{-bt})&space;$$)
 
 where,<br/>
-$\mu(x) = \text{current predicted defects, using Goel – Okumoto Model.}$<br/>
-$a = \text{Determines scale of values}$<br/>
-$b = \text{Determines shape of mean value function}$
+![MU](https://latex.codecogs.com/gif.latex?$\mu(x)&space;=&space;\text{current&space;predicted&space;defects,&space;using&space;Goel&space;–&space;Okumoto&space;Model.}$)<br/>
+![a](https://latex.codecogs.com/gif.latex?$a&space;=&space;\text{Determines&space;scale&space;of&space;values}$)<br/>
+![b](https://latex.codecogs.com/gif.latex?$b&space;=&space;\text{Determines&space;shape&space;of&space;mean&space;value&space;function}$)
 
 ## Usage 
 Run [simulated_annealing.py](https://github.com/piyush2896/Simulated-Annealing-Parameter-Estimation/blob/master/simulated_annealing.py) to see the output
