@@ -14,4 +14,4 @@ where,<br/>
 Run [simulated_annealing.py](https://github.com/piyush2896/Simulated-Annealing-Parameter-Estimation/blob/master/simulated_annealing.py) to see the output
 
 ## Results
-![Results of Parameter Estimations on Different Datasets](https://github.com/piyush2896/Simulated-Annealing-Parameter-Estimation/blob/master/all_datasets.png)
+![Results of Parameter Estimations on Different Datasets](/all_datasets.png)
